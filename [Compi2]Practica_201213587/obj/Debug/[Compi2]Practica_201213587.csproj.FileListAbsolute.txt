@@ -1,0 +1,10 @@
+C:\Users\Titus\documents\visual studio 2015\Projects\[Compi2]Practica_201213587\[Compi2]Practica_201213587\bin\Debug\[Compi2]Practica_201213587.pdb
+C:\Users\Titus\documents\visual studio 2015\Projects\[Compi2]Practica_201213587\[Compi2]Practica_201213587\obj\Debug\_Compi2_Practica_201213587.Form1.resources
+C:\Users\Titus\documents\visual studio 2015\Projects\[Compi2]Practica_201213587\[Compi2]Practica_201213587\obj\Debug\_Compi2_Practica_201213587.Properties.Resources.resources
+C:\Users\Titus\documents\visual studio 2015\Projects\[Compi2]Practica_201213587\[Compi2]Practica_201213587\obj\Debug\[Compi2]Practica_201213587.csproj.GenerateResource.Cache
+C:\Users\Titus\documents\visual studio 2015\Projects\[Compi2]Practica_201213587\[Compi2]Practica_201213587\obj\Debug\[Compi2]Practica_201213587.pdb
+C:\Users\Titus\documents\visual studio 2015\Projects\[Compi2]Practica_201213587\[Compi2]Practica_201213587\obj\Debug\[Compi2]Practica_201213587.csprojResolveAssemblyReference.cache
+C:\Users\Titus\documents\visual studio 2015\Projects\[Compi2]Practica_201213587\[Compi2]Practica_201213587\bin\Debug\FastColoredTextBox.xml
+C:\Users\Titus\documents\visual studio 2015\Projects\[Compi2]Practica_201213587\[Compi2]Practica_201213587\bin\Debug\[Compi2]Practica_201213587.exe.config
+C:\Users\Titus\documents\visual studio 2015\Projects\[Compi2]Practica_201213587\[Compi2]Practica_201213587\bin\Debug\[Compi2]Practica_201213587.exe
+C:\Users\Titus\documents\visual studio 2015\Projects\[Compi2]Practica_201213587\[Compi2]Practica_201213587\obj\Debug\[Compi2]Practica_201213587.exe
