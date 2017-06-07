@@ -117,8 +117,8 @@ namespace _Compi2_Practica_201213587.Funciones
                                 if (funcion.Parametros.Count == Nodo.Llamada.Parametros.Count)
                                 {
                                     //metemos el return 
-                                    Variables retorno = new Variables(Constante.TRetorno, Constante.TRetorno, Constante.RETORNO, null, null, 0, 0);
-                                    TablaVariables.Tabla.Add(retorno);
+                                    //Variables retorno = new Variables(Constante.TRetorno, Constante.TRetorno, Constante.RETORNO, null, null, 0, 0);
+                                    //TablaVariables.Tabla.Add(retorno);
                                     int cont = 0;
                                     //meter variables de los parametros
                                     while (cont < funcion.Parametros.Count && TitusNotifiaciones.ContarErrores() == 0)
